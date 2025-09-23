@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "https://t.me/+Tbkw7GQzcB05M2U9")
 
 DB_NAME = os.environ.get("DB_NAME", "kanha")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://Kanha:kanha54321@kanha.hnytqah.mongodb.net/Kanha?retryWrites=true&w=majority&appName=Kanha"")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://Kanha:kanha54321@kanha.hnytqah.mongodb.net/Kanha?retryWrites=true&w=majority&appName=Kanha")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
